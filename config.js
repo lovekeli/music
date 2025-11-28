@@ -1,1 +1,1 @@
-var remoteMusic ='https://cloud.onlylovekeli.cn/raw/%E9%9F%B3%E4%B9%90/list.json';
+var remoteMusic ='./list.json';
