@@ -1,1 +1,1 @@
-var remoteMusic ='./list.json';
+var remoteMusic ='./musiclist.json';
