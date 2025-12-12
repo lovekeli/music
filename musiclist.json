@@ -1,23 +1,16 @@
 [
     {
-        "name": "ぴこぴこ東京",
-        "artist": "中田ヤスタカ,眞白桃々,中田ヤスタカ眞白桃々",
-        "url": "https://cloudstorage.lovekeli.uk/音乐/动漫/ぴこぴこ東京.mp3",
-        "cover": "https://cloudstorage.lovekeli.uk/音乐/动漫/ぴこぴこ東京.jpg",
-        "lrc": ""
+        "name": "落了白",
+        "artist": "蒋雪儿",
+        "url": "https://cloudstorage.lovekeli.uk/音乐/常规/蒋雪儿 - 落了白.mp3",
+        "cover": "https://cloudstorage.lovekeli.uk/音乐/常规/落了白.jpg",
+        "lrc": "https://cloudstorage.lovekeli.uk/音乐/常规/蒋雪儿 - 落了白.lrc"
     },
     {
-        "name": "only my railgun",
-        "artist": "fripSide",
-        "url": "https://cloudstorage.lovekeli.uk/音乐/动漫/only my railgun.flac",
-        "cover": "https://cloudstorage.lovekeli.uk/音乐/动漫/御坂美琴.jpg",
-        "lrc": ""
-    },
-    {
-        "name": "噗哟噗哟",
-        "artist": "洛天依",
-        "url": "https://cloudstorage.lovekeli.uk/音乐/动漫/噗哟噗哟.mp3",
-        "cover": "https://cloudstorage.lovekeli.uk/音乐/动漫/洛天依.jpg",
-        "lrc": ""
+        "name": "荒",
+        "artist": "郑鱼",
+        "url": "https://cloudstorage.lovekeli.uk/音乐/常规/荒-郑鱼.mp3",
+        "cover": "https://cloudstorage.lovekeli.uk/音乐/常规/荒.jpg",
+        "lrc": "https://cloudstorage.lovekeli.uk/音乐/常规/荒-郑鱼.lrc"
     }
 ]
